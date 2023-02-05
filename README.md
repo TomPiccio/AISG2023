@@ -14,4 +14,10 @@ My preferred way!
 4. input \> peekingduck verify-install
 5. input \> peekingduck run
 
+# Contributors
+Advaitaa Kathavarayan
+Ashley Tan
+Charlene
+Tom Manuel Opalla Piccio
+
 Thank you for Reading! :grinning:
