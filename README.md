@@ -14,10 +14,13 @@ My preferred way!
 4. input \> peekingduck verify-install
 5. input \> peekingduck run
 
-# Contributors
-Advaitaa Kathavarayan
-Ashley Tan
-Charlene
-Tom Manuel Opalla Piccio
+## Contributors
+Advaitaa Kathavarayan <br />
+Ashley Tan <br />
+Charlene <br />
+Tom Manuel Opalla Piccio <br />
+
+## More Info:
+This is for the National AI Student Challenge 2022
 
 Thank you for Reading! :grinning:
