@@ -15,10 +15,11 @@ My preferred way!
 5. input \> peekingduck run
 
 ## Contributors
+Tom Manuel Opalla Piccio <br />
 Advaitaa Kathavarayan <br />
 Ashley Tan Jie Ni<br />
 Charlene Teo En<br />
-Tom Manuel Opalla Piccio <br />
+
 
 ## More Info:
 This is for the National AI Student Challenge 2022
