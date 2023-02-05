@@ -1,0 +1,12 @@
+nodes:
+- input.visual:
+    source: 0
+- model.yolo
+- custom_nodes.model.Posenetv2
+- custom_nodes.draw.PoseDetection
+- dabble.fps
+- custom_nodes.dabble.wave
+
+- draw.legend:
+    show: ["fps"]
+- output.screen
