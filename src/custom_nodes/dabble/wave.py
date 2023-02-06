@@ -399,7 +399,7 @@ class Node(AbstractNode):
       bbox_scores = inputs["bbox_scores"]
       keypoints = inputs["keypoints"]
       keypoint_scores = inputs["keypoint_scores"]
-      print(keypoints[0])
+      #print(keypoints[0])
       img_size = (img.shape[1], img.shape[0])  # image width, height
       if time.time() - tens*10>10:
         tens+=1
